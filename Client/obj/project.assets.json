@@ -410,14 +410,14 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "LetrasBlog.Shared/1.0.0": {
+      "LetrasBlog.Infraestructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/LetrasBlog.Shared.dll": {}
+          "bin/placeholder/LetrasBlog.Infraestructure.dll": {}
         },
         "runtime": {
-          "bin/placeholder/LetrasBlog.Shared.dll": {}
+          "bin/placeholder/LetrasBlog.Infraestructure.dll": {}
         }
       }
     },
@@ -824,14 +824,14 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "LetrasBlog.Shared/1.0.0": {
+      "LetrasBlog.Infraestructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/LetrasBlog.Shared.dll": {}
+          "bin/placeholder/LetrasBlog.Infraestructure.dll": {}
         },
         "runtime": {
-          "bin/placeholder/LetrasBlog.Shared.dll": {}
+          "bin/placeholder/LetrasBlog.Infraestructure.dll": {}
         }
       }
     }
@@ -1619,15 +1619,15 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "LetrasBlog.Shared/1.0.0": {
+    "LetrasBlog.Infraestructure/1.0.0": {
       "type": "project",
-      "path": "../Shared/LetrasBlog.Shared.csproj",
-      "msbuildProject": "../Shared/LetrasBlog.Shared.csproj"
+      "path": "../Shared/LetrasBlog.Infraestructure.csproj",
+      "msbuildProject": "../Shared/LetrasBlog.Infraestructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "LetrasBlog.Shared >= 1.0.0",
+      "LetrasBlog.Infraestructure >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 6.0.7",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.7",
       "MudBlazor >= 6.0.13"
@@ -1658,8 +1658,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Shared.csproj": {
-              "projectPath": "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Shared.csproj"
+            "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Infraestructure.csproj": {
+              "projectPath": "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Infraestructure.csproj"
             }
           }
         }

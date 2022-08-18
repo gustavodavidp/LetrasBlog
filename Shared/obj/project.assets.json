@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Shared.csproj",
-      "projectName": "LetrasBlog.Shared",
-      "projectPath": "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Shared.csproj",
+      "projectUniqueName": "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Infraestructure.csproj",
+      "projectName": "LetrasBlog.Infraestructure",
+      "projectPath": "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Infraestructure.csproj",
       "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
       "outputPath": "D:\\source\\repos\\LetrasBlog\\Shared\\obj\\",
       "projectStyle": "PackageReference",

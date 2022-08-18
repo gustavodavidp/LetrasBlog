@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GP+Ow6TyMvsei+BDmi7uqbVDlEhqCkWLVg8QTfF22ys=",
+  "Hash": "NcoeuGX5IL7C/oJUlkTIy65g34xUhVj8sN+3xebut4U=",
   "Source": "LetrasBlog.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -272,12 +272,12 @@
       "OriginalItemSpec": "obj\\Debug\\net6.0\\LetrasBlog.Client.pdb"
     },
     {
-      "Identity": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\LetrasBlog.Shared.dll",
+      "Identity": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\LetrasBlog.Infraestructure.dll",
       "SourceId": "LetrasBlog.Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/LetrasBlog.Shared.dll",
+      "RelativePath": "_framework/LetrasBlog.Infraestructure.dll",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +286,15 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\source\\repos\\LetrasBlog\\Shared\\bin\\Debug\\net6.0\\LetrasBlog.Shared.dll"
+      "OriginalItemSpec": "D:\\source\\repos\\LetrasBlog\\Shared\\bin\\Debug\\net6.0\\LetrasBlog.Infraestructure.dll"
     },
     {
-      "Identity": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\LetrasBlog.Shared.pdb",
+      "Identity": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\LetrasBlog.Infraestructure.pdb",
       "SourceId": "LetrasBlog.Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/LetrasBlog.Shared.pdb",
+      "RelativePath": "_framework/LetrasBlog.Infraestructure.pdb",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,7 +303,7 @@
       "AssetTraitValue": "symbol",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\source\\repos\\LetrasBlog\\Shared\\bin\\Debug\\net6.0\\LetrasBlog.Shared.pdb"
+      "OriginalItemSpec": "D:\\source\\repos\\LetrasBlog\\Shared\\bin\\Debug\\net6.0\\LetrasBlog.Infraestructure.pdb"
     },
     {
       "Identity": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
@@ -3587,6 +3587,23 @@
       "OriginalItemSpec": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encoding.Extensions.dll"
     },
     {
+      "Identity": "D:\\source\\repos\\LetrasBlog\\Client\\obj\\Debug\\net6.0\\build-gz\\+DtVWeMy.gz",
+      "SourceId": "LetrasBlog.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/LetrasBlog.Infraestructure.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\LetrasBlog.Infraestructure.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\LetrasBlog.Infraestructure.pdb"
+    },
+    {
       "Identity": "D:\\source\\repos\\LetrasBlog\\Client\\obj\\Debug\\net6.0\\build-gz\\+DZbQNby.gz",
       "SourceId": "LetrasBlog.Client",
       "SourceType": "Computed",
@@ -4231,6 +4248,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Resources.Reader.dll"
+    },
+    {
+      "Identity": "D:\\source\\repos\\LetrasBlog\\Client\\obj\\Debug\\net6.0\\build-gz\\aqPAejpL.gz",
+      "SourceId": "LetrasBlog.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/LetrasBlog.Infraestructure.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\LetrasBlog.Infraestructure.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\LetrasBlog.Infraestructure.dll"
     },
     {
       "Identity": "D:\\source\\repos\\LetrasBlog\\Client\\obj\\Debug\\net6.0\\build-gz\\awNAG3Dl.gz",
@@ -5542,23 +5576,6 @@
       "OriginalItemSpec": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Physical.dll"
     },
     {
-      "Identity": "D:\\source\\repos\\LetrasBlog\\Client\\obj\\Debug\\net6.0\\build-gz\\N+gCLkl6.gz",
-      "SourceId": "LetrasBlog.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/LetrasBlog.Shared.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\LetrasBlog.Shared.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\LetrasBlog.Shared.dll"
-    },
-    {
       "Identity": "D:\\source\\repos\\LetrasBlog\\Client\\obj\\Debug\\net6.0\\build-gz\\NgaqRr51.gz",
       "SourceId": "LetrasBlog.Client",
       "SourceType": "Computed",
@@ -6730,23 +6747,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ServiceModel.Web.dll"
-    },
-    {
-      "Identity": "D:\\source\\repos\\LetrasBlog\\Client\\obj\\Debug\\net6.0\\build-gz\\xFra5fT3.gz",
-      "SourceId": "LetrasBlog.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/LetrasBlog.Shared.pdb.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\LetrasBlog.Shared.pdb",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\LetrasBlog.Shared.pdb"
     },
     {
       "Identity": "D:\\source\\repos\\LetrasBlog\\Client\\obj\\Debug\\net6.0\\build-gz\\XJvKvLg8.gz",

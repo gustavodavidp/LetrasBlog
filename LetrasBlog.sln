@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetrasBlog.Client", "Client\LetrasBlog.Client.csproj", "{FCB7E8C6-998D-403E-8B68-C0AAB3072E62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LetrasBlog.Client", "Client\LetrasBlog.Client.csproj", "{FCB7E8C6-998D-403E-8B68-C0AAB3072E62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetrasBlog.Server", "Server\LetrasBlog.Server.csproj", "{5646C25B-B69D-4C3C-9A58-F7F859E24365}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LetrasBlog.Server", "Server\LetrasBlog.Server.csproj", "{5646C25B-B69D-4C3C-9A58-F7F859E24365}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetrasBlog.Shared", "Shared\LetrasBlog.Shared.csproj", "{CC7BAE3A-70C9-487C-B363-894FC089D2DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LetrasBlog.Infraestructure", "Shared\LetrasBlog.Infraestructure.csproj", "{CC7BAE3A-70C9-487C-B363-894FC089D2DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

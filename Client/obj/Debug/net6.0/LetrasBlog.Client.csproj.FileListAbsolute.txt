@@ -9,8 +9,6 @@ D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIG
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\LetrasBlog.Client.dll
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\LetrasBlog.Client.pdb
-D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\LetrasBlog.Shared.dll
-D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\LetrasBlog.Shared.pdb
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
@@ -319,7 +317,6 @@ D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
-D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\LetrasBlog.Shared.dll.gz
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
@@ -389,7 +386,6 @@ D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\System.Pri
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
-D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\LetrasBlog.Shared.pdb.gz
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll.gz
@@ -603,8 +599,6 @@ D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\icudt.dat
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\icudt_CJK.dat
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\icudt_EFIGS.dat
 D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\icudt_no_CJK.dat
-D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\LetrasBlog.Shared.dll
-D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\LetrasBlog.Shared.pdb
 D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\LetrasBlog.Client.csproj.AssemblyReference.cache
 D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\LetrasBlog.Client.GeneratedMSBuildEditorConfig.editorconfig
 D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\LetrasBlog.Client.AssemblyInfoInputs.cache
@@ -808,8 +802,6 @@ D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\build-gz\h9nPGUp1.gz
 D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\build-gz\o7gh5C+L.gz
 D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\build-gz\R+2LhDFV.gz
 D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\build-gz\8fJKJ2ao.gz
-D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\build-gz\N+gCLkl6.gz
-D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\build-gz\xFra5fT3.gz
 D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\build-gz\zAUKlJN5.gz
 D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\build-gz\iFlg6Ieu.gz
 D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\build-gz\ta6Uk+je.gz
@@ -822,3 +814,11 @@ D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\LetrasBlog.Client.dll
 D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\refint\LetrasBlog.Client.dll
 D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\LetrasBlog.Client.pdb
 D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\ref\LetrasBlog.Client.dll
+D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\LetrasBlog.Infraestructure.dll
+D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\LetrasBlog.Infraestructure.pdb
+D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\LetrasBlog.Infraestructure.pdb.gz
+D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\LetrasBlog.Infraestructure.dll.gz
+D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\LetrasBlog.Infraestructure.dll
+D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\LetrasBlog.Infraestructure.pdb
+D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\build-gz\aqPAejpL.gz
+D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\build-gz\+DtVWeMy.gz

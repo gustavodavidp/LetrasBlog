@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "njOWRMytnXfa4Qp4UWw+T2VrAqvgILYqzBjV+T0knu+Jv/uss1NrjBtbZaldH08y5q/ea/oefQ85WzIi18EG3Q==",
+  "dgSpecHash": "3S+ke2DsW9qdHAKfTmEsdQ4+tAzWdeIIbSyvT4t8onI3mRjPq2NxtgbELEkl++mWXELVroMp4dnFHq4VLE/9Ew==",
   "success": true,
-  "projectFilePath": "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Shared.csproj",
+  "projectFilePath": "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Infraestructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,4 +1,4 @@
-﻿namespace LetrasBlog.Shared
+﻿namespace LetrasBlog.Infraestructure
 {
     public class WeatherForecast
     {

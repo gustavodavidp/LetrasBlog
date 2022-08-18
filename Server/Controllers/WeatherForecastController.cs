@@ -1,4 +1,4 @@
-﻿using LetrasBlog.Shared;
+﻿using LetrasBlog.Infraestructure;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LetrasBlog.Server.Controllers

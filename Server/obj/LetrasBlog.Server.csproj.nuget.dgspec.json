@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Shared.csproj": {
-                "projectPath": "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Shared.csproj"
+              "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Infraestructure.csproj": {
+                "projectPath": "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Infraestructure.csproj"
               }
             }
           }
@@ -111,8 +111,8 @@
               "D:\\source\\repos\\LetrasBlog\\Client\\LetrasBlog.Client.csproj": {
                 "projectPath": "D:\\source\\repos\\LetrasBlog\\Client\\LetrasBlog.Client.csproj"
               },
-              "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Shared.csproj": {
-                "projectPath": "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Shared.csproj"
+              "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Infraestructure.csproj": {
+                "projectPath": "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Infraestructure.csproj"
               }
             }
           }
@@ -130,6 +130,20 @@
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
               "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             }
           },
           "imports": [
@@ -154,12 +168,12 @@
         }
       }
     },
-    "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Shared.csproj": {
+    "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Shared.csproj",
-        "projectName": "LetrasBlog.Shared",
-        "projectPath": "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Shared.csproj",
+        "projectUniqueName": "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Infraestructure.csproj",
+        "projectName": "LetrasBlog.Infraestructure",
+        "projectPath": "D:\\source\\repos\\LetrasBlog\\Shared\\LetrasBlog.Infraestructure.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
         "outputPath": "D:\\source\\repos\\LetrasBlog\\Shared\\obj\\",
         "projectStyle": "PackageReference",
