@@ -14,7 +14,7 @@ namespace LetrasBlog.Server
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Articles>().HasKey(x => new { x.IdArticle });
+          
 
             base.OnModelCreating(modelBuilder);
         }

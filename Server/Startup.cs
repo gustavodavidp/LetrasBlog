@@ -8,6 +8,11 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Newtonsoft.Json;
 using System.Linq;
+using LetrasBlog.Infraestructure.Data;
+using LetrasBlog.Client.Repositories;
+using LetrasBlog.Infraestructure.Services;
+using static LetrasBlog.Infraestructure.SqlConfigurationContext;
+using LetrasBlog.Infraestructure;
 
 namespace LetrasBlog.Server
 {
@@ -24,8 +29,16 @@ namespace LetrasBlog.Server
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<ApplicationDbContext>(options =>
-            options.UseSqlServer(Configuration.GetConnectionString("Default")));
+           //services.AddDbContext<ApplicationDbContext>(options =>
+//options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            //Controllers
+            services.AddScoped<IRepository, RepositoryServices>();
+
+            //Conexión BD
+            //
+            var sqlConnectionConfigurationDev = new SqlConfigurationContextDev(Configuration.GetConnectionString("SqlConfigurationContextDev"));
+            services.AddSingleton(sqlConnectionConfigurationDev);
+
             services.AddRazorPages();
         }
 
