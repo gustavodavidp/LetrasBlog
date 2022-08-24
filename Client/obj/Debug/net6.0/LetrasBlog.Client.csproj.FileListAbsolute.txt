@@ -846,3 +846,7 @@ D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\build-gz\LCX9Mp7E.gz
 D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\build-gz\abO1fMBX.gz
 D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\build-gz\lcm+D3tI.gz
 D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\build-gz\Wb0FECjX.gz
+D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll
+D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+D:\source\repos\LetrasBlog\Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\source\repos\LetrasBlog\Client\obj\Debug\net6.0\build-gz\7C0Q9pwk.gz

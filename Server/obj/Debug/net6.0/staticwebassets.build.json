@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sD2gB7g2BlwT4eQVRXdmLyzxCqpnBcCu9+UY0elzK5c=",
+  "Hash": "yk9s1d0RurkdPgtebvMXFVmw80AabNwL6KUrOi8VXOE=",
   "Source": "LetrasBlog.Server",
   "BasePath": "_content/LetrasBlog.Server",
   "Mode": "Default",
@@ -911,6 +911,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\gusta\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.7\\runtimes\\browser-wasm\\lib\\net6.0\\netstandard.dll"
+    },
+    {
+      "Identity": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Newtonsoft.Json.dll",
+      "SourceId": "LetrasBlog.Client",
+      "SourceType": "Project",
+      "ContentRoot": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\gusta\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib\\netstandard2.0\\Newtonsoft.Json.dll"
     },
     {
       "Identity": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.AppContext.dll",
@@ -4090,6 +4107,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encoding.CodePages.dll"
+    },
+    {
+      "Identity": "D:\\source\\repos\\LetrasBlog\\Client\\obj\\Debug\\net6.0\\build-gz\\7C0Q9pwk.gz",
+      "SourceId": "LetrasBlog.Client",
+      "SourceType": "Project",
+      "ContentRoot": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Newtonsoft.Json.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\source\\repos\\LetrasBlog\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Newtonsoft.Json.dll"
     },
     {
       "Identity": "D:\\source\\repos\\LetrasBlog\\Client\\obj\\Debug\\net6.0\\build-gz\\8EIeHBYY.gz",

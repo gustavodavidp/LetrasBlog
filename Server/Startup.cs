@@ -11,8 +11,8 @@ using System.Linq;
 using LetrasBlog.Infraestructure.Data;
 using LetrasBlog.Client.Repositories;
 using LetrasBlog.Infraestructure.Services;
-using static LetrasBlog.Infraestructure.SqlConfigurationContext;
 using LetrasBlog.Infraestructure;
+
 
 namespace LetrasBlog.Server
 {
@@ -40,6 +40,7 @@ namespace LetrasBlog.Server
             services.AddSingleton(sqlConnectionConfigurationDev);
 
             services.AddRazorPages();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

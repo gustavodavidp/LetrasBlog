@@ -708,7 +708,8 @@
         "dependencies": {
           "LetrasBlog.Infraestructure": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "6.0.7",
-          "MudBlazor": "6.0.13"
+          "MudBlazor": "6.0.13",
+          "Newtonsoft.Json": "13.0.1"
         },
         "runtime": {
           "LetrasBlog.Client.dll": {}
